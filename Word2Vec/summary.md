@@ -6,6 +6,7 @@ They tried to implement different methods to improve both the quality of the vec
 - Word vectors can be meaningfully combined using simple vector addition!!
 - The Skip-gram model with their extensions outperforms all the other models in the quality of the learned representations.
 # What approaches does the paper introduces?
+- Skip-gram model
 - Noise Contractive Estimation
 - Negative Sampling
 - Subsampling
