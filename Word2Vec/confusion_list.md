@@ -1,0 +1,4 @@
+-Hierarchical softmax
+-Negative Sampling
+-NCE
+-Subsampling
